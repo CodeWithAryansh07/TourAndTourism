@@ -7,7 +7,7 @@ const Hero = () => {
             <div
                 className="absolute inset-0 z-0"
                 style={{
-                    backgroundImage: "url('https://images.unsplash.com/photo-1514222134-b57cbb8ce073?ixlib=rb-1.2.1&auto=format&fit=crop&w=1920&q=80')",
+                    backgroundImage: "url('/assets/hero.jpg')",
                     backgroundSize: 'cover',
                     backgroundPosition: 'center'
                 }}
@@ -21,7 +21,7 @@ const Hero = () => {
                     <div className="text-center">
                         <h1 className="text-4xl sm:text-5xl md:text-6xl font-bold text-white mb-6">
                             Discover the Magic of
-                            <span className="block text-yellow-400 mt-2">Incredible India</span>
+                            <span className="block text-[#a9965b] mt-2">Incredible India</span>
                         </h1>
                         <p className="text-xl text-gray-200 max-w-3xl mx-auto mb-8">
                             From the majestic Himalayas to the serene backwaters of Kerala,

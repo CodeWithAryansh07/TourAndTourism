@@ -206,7 +206,7 @@ export const destinations: Destination[] = [
     {
         name: "West Bengal",
         image: "/assets/WestBengal.jpg",
-        link: "/west-bengal"
+        link: "/WestBengal"
     },
 
 ]

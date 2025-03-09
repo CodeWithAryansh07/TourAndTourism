@@ -5,3 +5,16 @@
     -webkit-user-select: none;
     user-select: none;
 }
+
+body {
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+    overflow-x: hidden;
+    ::-webkit-scrollbar {
+        display: none;
+    }
+    
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+}
