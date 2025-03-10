@@ -33,12 +33,14 @@ const Footer = () => {
                         Important Links
                     </div>
                     <div className="flex flex-col space-y-2 text-lg">
-                        <div className="cursor-pointer">
+                        <a 
+                        href="/about"
+                        className="cursor-pointer" >
                             About us
-                        </div>
-                        <div className="cursor-pointer">
+                        </a>
+                        <a href="/contact" className="cursor-pointer">
                             Contact us
-                        </div>
+                        </a>
                         <div className="cursor-pointer">
                             FAQ
                         </div>

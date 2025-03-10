@@ -25,18 +25,18 @@ export const destinations: Destination[] = [
         touristPoints: [
             {
                 name: "Radhanagar Beach",
-                description: "Often rated as Asia's best beach, known for its pristine white sands and turquoise waters.",
-                image: "https://images.unsplash.com/photo-1589381855733-01bb36156da9?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+                description: "One of the most beautiful beaches in Asia, known for its white sand and turquoise waters.",
+                image: "/assets/Radhanagar-Beach.jpg",
                 category: "Nature",
                 bestTimeToVisit: "October to May",
                 duration: "2-3 hours",
                 rating: 4.5
             },
             {
-                name: "Cellular Jail",
-                description: "Historic colonial prison that once housed Indian freedom fighters.",
-                image: "https://images.unsplash.com/photo-1589381855733-01bb36156da9?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
-                category: "Historical",
+                name: "Port Blair",
+                description: "The capital city of the Andaman and Nicobar Islands, known for its colonial history and natural beauty.",
+                image: "/assets/Port-Blair.jpg",
+                category: "Cultural",
                 bestTimeToVisit: "Year-round",
                 duration: "2-3 hours",
                 rating: 4.6

@@ -9,47 +9,47 @@ const monuments = [
         description: "Symbol of eternal love, built by Shah Jahan"
     },
     {
-        image: "https://images.unsplash.com/photo-1587474260584-136574528ed5?ixlib=rb-1.2.1&auto=format&fit=crop&w=2000&q=80",
+        image: "https://images.unsplash.com/photo-1650530777057-3a7dbc24bf6c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8SGF3YSUyME1haGFsfGVufDB8fDB8fHww",
         title: "Hawa Mahal",
         description: "Palace of Winds in the Pink City of Jaipur"
     },
     {
-        image: "https://images.unsplash.com/photo-1548013146-72479768bada?ixlib=rb-1.2.1&auto=format&fit=crop&w=2000&q=80",
+        image: "https://plus.unsplash.com/premium_photo-1661919589683-f11880119fb7?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8UmVkJTIwRm9ydHxlbnwwfHwwfHx8MA%3D%3D",
         title: "Red Fort",
         description: "Historic fortress in the heart of Delhi"
     },
     {
-        image: "https://images.unsplash.com/photo-1514539079130-25950c84af65?ixlib=rb-1.2.1&auto=format&fit=crop&w=2000&q=80",
+        image: "https://plus.unsplash.com/premium_photo-1697730331435-92e07494db43?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8R29sZGVuJTIwVGVtcGxlfGVufDB8fDB8fHww",
         title: "Golden Temple",
         description: "Sacred Sikh shrine in Amritsar"
     },
     {
-        image: "https://images.unsplash.com/photo-1621996659490-3275b4d0d951?ixlib=rb-1.2.1&auto=format&fit=crop&w=2000&q=80",
+        image: "https://images.unsplash.com/photo-1600112356915-089abb8fc71a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8TXlzb3JlJTIwUGFsYWNlfGVufDB8fDB8fHww",
         title: "Mysore Palace",
         description: "Royal residence and seat of the Wodeyars"
     },
     {
-        image: "https://images.unsplash.com/photo-1624809536054-f8c6a0027734?ixlib=rb-1.2.1&auto=format&fit=crop&w=2000&q=80",
+        image: "https://images.unsplash.com/photo-1677211352662-30e7775c7ce8?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8S29uYXJrJTIwU3VuJTIwVGVtcGxlfGVufDB8fDB8fHww",
         title: "Konark Sun Temple",
         description: "Ancient temple dedicated to the Sun God"
     },
     {
-        image: "https://images.unsplash.com/photo-1593181629936-11c609b8db9b?ixlib=rb-1.2.1&auto=format&fit=crop&w=2000&q=80",
+        image: "https://images.unsplash.com/photo-1600080077823-a44592513861?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8VmljdG9yaWElMjBNZW1vcmlhbHxlbnwwfHwwfHx8MA%3D%3D",
         title: "Victoria Memorial",
         description: "Magnificent marble building in Kolkata"
     },
     {
-        image: "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?ixlib=rb-1.2.1&auto=format&fit=crop&w=2000&q=80",
+        image: "https://plus.unsplash.com/premium_photo-1697729588019-20a1f5a325d1?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8QWphbnRhJTIwQ2F2ZXN8ZW58MHx8MHx8fDA%3D",
         title: "Ajanta Caves",
         description: "Ancient Buddhist cave monuments"
     },
     {
-        image: "https://images.unsplash.com/photo-1567157577867-05ccb1388e66?ixlib=rb-1.2.1&auto=format&fit=crop&w=2000&q=80",
+        image: "https://plus.unsplash.com/premium_photo-1697730320983-f99aab252a44?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8UXV0dWIlMjBNaW5hcnxlbnwwfHwwfHx8MA%3D%3D",
         title: "Qutub Minar",
         description: "UNESCO World Heritage site in Delhi"
     },
     {
-        image: "https://images.unsplash.com/photo-1592635196078-a4bc8e9f4c01?ixlib=rb-1.2.1&auto=format&fit=crop&w=2000&q=80",
+        image: "https://plus.unsplash.com/premium_photo-1661915849493-aba3cb23db5d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8SGFtcGklMjBSdWluc3xlbnwwfHwwfHx8MA%3D%3D",
         title: "Hampi Ruins",
         description: "Ancient archaeological site in Karnataka"
     }
@@ -67,7 +67,7 @@ const sampleDestinations: DestinationPoint[] = [
     },
     {
         name: "Varanasi Ghats",
-        image: "https://images.unsplash.com/photo-1561361513-2d000a50f0dc?ixlib=rb-1.2.1&auto=format&fit=crop&w=2000&q=80",
+        image: "https://images.unsplash.com/photo-1706186839147-0d708602587b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8VmFyYW5hc2klMjBHaGF0c3xlbnwwfHwwfHx8MA%3D%3D",
         category: "Religious",
         description: "Sacred ghats along the Ganges River with ancient rituals and ceremonies.",
         rating: 4.7,
